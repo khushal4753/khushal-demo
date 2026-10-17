@@ -1,4 +1,4 @@
 # khushal-demo
 My first git repository
 <br>
-author-Khushal Mall
+author-Khushal
